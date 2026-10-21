@@ -12,4 +12,4 @@ GitHub Pages는 main 브랜치의 루트 디렉터리를 배포합니다. 별도
 
 주요 파일: index.html, styles.css, app.js, config.js, static/, previews/, assets/.
 
-샘플 사진은 Unsplash의 images.unsplash.com에서 가져온 예시 자산입니다. 모든 업체·상품·가격·통계는 화면 구성을 위한 샘플입니다.
+업종별 사진은 Unsplash의 images.unsplash.com에서 가져온 예시 자산입니다. 게임과 Discord 공개 화면의 출처는 각 샘플 및 assets/bot-image-sources.json에 표시되어 있습니다. 모든 업체·상품·가격·통계는 화면 구성을 위한 샘플입니다.

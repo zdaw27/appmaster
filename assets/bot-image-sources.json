@@ -1,0 +1,22 @@
+{
+  "note": "Public screenshots used as visual references. Bot settings and sample logs are illustrative; not captured results of a live bot integration.",
+  "sources": [
+    {
+      "asset": "wow-modern.webp",
+      "owner": "Blizzard Entertainment",
+      "page": "https://worldofwarcraft.blizzard.com/en-gb/news/23837944",
+      "image": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/VIYVLGQEKRIP1650386026193.jpg"
+    },
+    {
+      "asset": "minecraft-village.webp",
+      "owner": "Mojang Studios",
+      "page": "https://www.minecraft.net/en-us/article/minecraft-snapshot-18w50a",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/archive/6292f5b0ae3bd310d36032ff3152f393-Header.jpeg"
+    },
+    {
+      "asset": "discord-official.webp",
+      "owner": "Discord",
+      "page": "https://discord.com/blog/how-to-play-games-listen-to-music-improve-your-discord-server-with-apps"
+    }
+  ]
+}
